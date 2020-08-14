@@ -32,5 +32,7 @@ class PuzzleHelper {
 }
 (function() {
     'use strict';
+    alert('!!!');
     let pm = new PuzzleMonkey();
+    
 })();
